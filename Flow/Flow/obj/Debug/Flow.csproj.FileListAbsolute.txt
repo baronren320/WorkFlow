@@ -1,0 +1,6 @@
+c:\users\baron.ren\source\repos\Flow\Flow\obj\Debug\Flow.csproj.CoreCompileInputs.cache
+c:\users\baron.ren\source\repos\Flow\Flow\bin\Debug\Flow.dll
+c:\users\baron.ren\source\repos\Flow\Flow\bin\Debug\Flow.pdb
+c:\users\baron.ren\source\repos\Flow\Flow\obj\Debug\Flow.dll
+c:\users\baron.ren\source\repos\Flow\Flow\obj\Debug\Flow.pdb
+C:\Users\baron.ren\source\repos\Flow\Flow\obj\Debug\Flow.csprojAssemblyReference.cache

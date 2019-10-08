@@ -1,0 +1,9 @@
+<FlowInstance>
+  <Flow Name="test">
+    <FlowIndex Value="4" />
+    <LastStartStepTime Value="2019-09-20_13:42:46" />
+    <Step Name="[MEMORY_INPUT] select flag of 1" Index="1" StartStepTime="2019-09-19_13:45:14" />
+    <Step Name="ProjectGeneralInfo.Fill" Index="3" StartStepTime="2019-09-19_13:45:26" />
+    <Step Name="PurchaseDetail.Create" Index="4" StartStepTime="2019-09-20_13:42:46" />
+  </Flow>
+</FlowInstance>

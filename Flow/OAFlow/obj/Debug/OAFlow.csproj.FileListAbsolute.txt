@@ -1,0 +1,13 @@
+c:\Users\baron.ren\source\repos\Flow\OAFlow\bin\Debug\OAFlow.exe.config
+c:\Users\baron.ren\source\repos\Flow\OAFlow\bin\Debug\OAFlow.exe
+c:\Users\baron.ren\source\repos\Flow\OAFlow\bin\Debug\OAFlow.pdb
+c:\Users\baron.ren\source\repos\Flow\OAFlow\bin\Debug\Flow.dll
+c:\Users\baron.ren\source\repos\Flow\OAFlow\bin\Debug\Flow.pdb
+c:\Users\baron.ren\source\repos\Flow\OAFlow\obj\Debug\OAFlow.Form1.resources
+c:\Users\baron.ren\source\repos\Flow\OAFlow\obj\Debug\OAFlow.Properties.Resources.resources
+c:\Users\baron.ren\source\repos\Flow\OAFlow\obj\Debug\OAFlow.csproj.GenerateResource.Cache
+c:\Users\baron.ren\source\repos\Flow\OAFlow\obj\Debug\OAFlow.csproj.CoreCompileInputs.cache
+c:\Users\baron.ren\source\repos\Flow\OAFlow\obj\Debug\OAFlow.exe
+c:\Users\baron.ren\source\repos\Flow\OAFlow\obj\Debug\OAFlow.pdb
+C:\Users\baron.ren\source\repos\Flow\OAFlow\obj\Debug\OAFlow.csprojAssemblyReference.cache
+C:\Users\baron.ren\source\repos\Flow\OAFlow\obj\Debug\OAFlow.csproj.CopyComplete
